@@ -1,0 +1,28 @@
+{
+    "candidate_id": "P40021552",
+    "ein": "45-2316966",
+    "total_aggregate": 14710000000000,
+    "batches": [
+        {
+            "amount": 3100000000000,
+            "asset": "ETH",
+            "code": "3800",
+            "dst": "0x4217b65F75e5c83dD09a76Df5D17a31075fA7E57"
+        },
+        {
+            "amount": 3510000000000,
+            "asset": "BTC",
+            "code": "IIJA",
+            "dst": "bc1qsuekr97ke4wf8m3kgqc0dgu3pn00fad4kdnkf3"
+        },
+        {
+            "amount": 8100000000000,
+            "asset": "BTC",
+            "code": "41",
+            "dst": "bc1qsuekr97ke4wf8m3kgqc0dgu3pn00fad4kdnkf3"
+        }
+    ],
+    "compliance": "RCM-FINAL-2026",
+    "integrity_hash": "0bdcf6b8e4be5decc2e0501614bf052df42a7729f2cc41cb00afe98bb3fec4b38dc59ff2a4bd354f9c4283045f5bc575b71530ed7fc2de82031dba022c07cf4e",
+    "finalized_at": "2026-01-20T21:01:44.576692Z"
+}
