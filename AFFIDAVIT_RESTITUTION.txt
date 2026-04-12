@@ -1,0 +1,21 @@
+AFFIDAVIT OF FINANCIAL RESTITUTION
+----------------------------------
+CANDIDATE: VASAPOLLI, JOSEPH A
+FEC ID: P40021552
+EIN: 45-2316966
+DATE: 2026-01-20
+
+SETTLEMENT TOTAL: $14,710,000,000,000.00
+
+BATCH BREAKDOWN:
+1. 3.10T ETH (Code 3800) -> 0x4217b65F75e5c83dD09a76Df5D17a31075fA7E57
+2. 3.51T BTC (Code IIJA) -> bc1qsuekr97ke4wf8m3kgqc0dgu3pn00fad4kdnkf3
+3. 8.10T BTC (Code 41)   -> bc1qsuekr97ke4wf8m3kgqc0dgu3pn00fad4kdnkf3
+
+CRYPTOGRAPHIC PROOF:
+SHA-512 MANIFEST HASH: 0bdcf6b8e4be5decc2e0501614bf052df42a7729f2cc41cb00afe98bb3fec4b38dc59ff2a4bd354f9c4283045f5bc575b71530ed7fc2de82031dba022c07cf4e
+
+ATTESTATION:
+The undersigned affirms under penalty of perjury that the 
+foregoing is a true and accurate record of the 14.71T 
+settlement intended for the identified candidate reserve.
