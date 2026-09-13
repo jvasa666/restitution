@@ -1,0 +1,38 @@
+{
+  "batch_name": "next_wave",
+  "developer": "Joseph Vasapolli (joevasa666@gmail.com)",
+  "payout_address": "0x8ff446a9edc99ec025b3fed1551503d17fb0e6b4",
+  "bounties": [
+    {
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "issue": 31,
+      "title": "Vore System from Chomp/Vorestation",
+      "reward": 175.0
+    },
+    {
+      "repo": "microg/GmsCore",
+      "issue": 580,
+      "title": "Google Cast implementation",
+      "reward": 150.0
+    },
+    {
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "issue": 76,
+      "title": "Port objects from our rebase for mapping",
+      "reward": 150.0
+    },
+    {
+      "repo": "moorcheh-ai/memanto",
+      "issue": 1852,
+      "title": "The Memanto Security Challenge",
+      "reward": 100.0
+    },
+    {
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "issue": 109,
+      "title": "Genital size completion/respriting",
+      "reward": 100.0
+    }
+  ],
+  "batch_total": 675.0
+}
