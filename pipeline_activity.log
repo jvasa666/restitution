@@ -1,1 +1,2 @@
 {"timestamp": "2026-09-13T20:28:38.848347", "block_height": 25970908, "target_address": "0x8ff446a9edc99ec025b3fed1551503d17fb0e6b4", "status": "active_observation", "notes": "Block height verified. Escrow balance remains at 0.0 ETH. Pipeline scanning loops continue uninterrupted."}
+{"timestamp": "2026-09-13T20:28:51.619297+00:00", "block_height": 25970908, "target_address": "0x8ff446a9edc99ec025b3fed1551503d17fb0e6b4", "status": "active_observation", "notes": "Telemetry log updated with timezone-aware UTC timestamp. Pipeline operational."}
