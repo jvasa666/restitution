@@ -1,0 +1,9 @@
+.bash_*
+.cache/
+.config/
+.git-credentials
+.gitconfig
+.landscape/
+.lesshst
+.motd_shown
+.profile
