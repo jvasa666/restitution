@@ -1,48 +1,42 @@
 {
   "developer": "Joseph Vasapolli (joevasa666@gmail.com)",
   "repository_target": "jvasa666/restitution",
-  "bounties": [
-    {
-      "target": "fluxerapp/fluxer-meta",
-      "modules": [
-        {
-          "issue": 5,
-          "name": "Threads",
-          "file": "fluxer_threads_module.js",
-          "reward": 800
-        },
-        {
-          "issue": 2,
-          "name": "Polls",
-          "file": "fluxer_polls_module.js",
-          "reward": 500
-        },
-        {
-          "issue": 3,
-          "name": "Events",
-          "file": "fluxer_events_module.js",
-          "reward": 500
-        },
-        {
-          "issue": 8,
-          "name": "RPC",
-          "file": "fluxer_rpc_module.js",
-          "reward": 250
-        }
-      ],
-      "total_value": 2050
-    },
-    {
-      "target": "microg/GmsCore",
-      "title": "RCS Support Implementation",
-      "total_value": 14999.0
-    }
-  ],
-  "grand_total": 17049.0,
-  "status": "ready_for_submission",
   "payout_wallet": {
     "network": "Ethereum / EVM Compatible",
-    "address": "0x8ff446a9edc99ec025b3fed1551503d17fb0e6b4",
-    "private_key_hex": "6aa5ba14ce8b94643924fddc018bbf2c9ff323f057e6f421595f91a7a1c8e394"
-  }
+    "address": "0x8ff446a9edc99ec025b3fed1551503d17fb0e6b4"
+  },
+  "bounties": [
+    {
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "issue": 31,
+      "title": "Vore System from Chomp/Vorestation",
+      "reward": 175.0
+    },
+    {
+      "repo": "microg/GmsCore",
+      "issue": 580,
+      "title": "Google Cast implementation",
+      "reward": 150.0
+    },
+    {
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "issue": 76,
+      "title": "Port objects from our rebase for mapping",
+      "reward": 150.0
+    },
+    {
+      "repo": "moorcheh-ai/memanto",
+      "issue": 1852,
+      "title": "The Memanto Security Challenge",
+      "reward": 100.0
+    },
+    {
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "issue": 109,
+      "title": "Genital size completion/respriting",
+      "reward": 100.0
+    }
+  ],
+  "grand_total": 675.0,
+  "status": "ready_for_submission"
 }
