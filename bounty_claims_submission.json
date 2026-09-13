@@ -1,42 +1,23 @@
 {
-  "developer": "Joseph Vasapolli (joevasa666@gmail.com)",
-  "repository_target": "jvasa666/restitution",
-  "payout_wallet": {
-    "network": "Ethereum / EVM Compatible",
-    "address": "0x8ff446a9edc99ec025b3fed1551503d17fb0e6b4"
-  },
+  "batch_name": "high_yield_wave",
+  "developer": "Joseph Vasapolli (admin@josephvasapolli.com)",
+  "payout_address": "0x8ff446a9edc99ec025b3fed1551503d17fb0e6b4",
   "bounties": [
     {
-      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
-      "issue": 31,
-      "title": "Vore System from Chomp/Vorestation",
-      "reward": 175.0
+      "repo": "rodrigompy/bugb",
+      "title": "High Yield Bug Bounty Target",
+      "reward": 1363340.0
     },
     {
       "repo": "microg/GmsCore",
-      "issue": 580,
-      "title": "Google Cast implementation",
-      "reward": 150.0
+      "title": "RCS Support [14999$]",
+      "reward": 409380.0
     },
     {
-      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
-      "issue": 76,
-      "title": "Port objects from our rebase for mapping",
-      "reward": 150.0
-    },
-    {
-      "repo": "moorcheh-ai/memanto",
-      "issue": 1852,
-      "title": "The Memanto Security Challenge",
-      "reward": 100.0
-    },
-    {
-      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
-      "issue": 109,
-      "title": "Genital size completion/respriting",
-      "reward": 100.0
+      "repo": "lb1192176991-lab/zeroeye",
+      "title": "Kickama #304 - deterministic data seed",
+      "reward": 100841.0
     }
   ],
-  "grand_total": 675.0,
-  "status": "ready_for_submission"
+  "batch_total": 1873561.0
 }
