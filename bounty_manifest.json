@@ -1,0 +1,31 @@
+{
+  "repository": "fluxerapp/fluxer-meta",
+  "modules": [
+    {
+      "issue": 5,
+      "name": "Threads",
+      "file": "fluxer_threads_module.js",
+      "reward": 800
+    },
+    {
+      "issue": 2,
+      "name": "Polls",
+      "file": "fluxer_polls_module.js",
+      "reward": 500
+    },
+    {
+      "issue": 3,
+      "name": "Events",
+      "file": "fluxer_events_module.js",
+      "reward": 500
+    },
+    {
+      "issue": 8,
+      "name": "RPC",
+      "file": "fluxer_rpc_module.js",
+      "reward": 250
+    }
+  ],
+  "total_bounty": 2050,
+  "timestamp": 1789328288870
+}
