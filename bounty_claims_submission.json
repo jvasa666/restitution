@@ -39,5 +39,10 @@
     }
   ],
   "grand_total": 17049.0,
-  "status": "ready_for_submission"
+  "status": "ready_for_submission",
+  "payout_wallet": {
+    "network": "Ethereum / EVM Compatible",
+    "address": "0x8ff446a9edc99ec025b3fed1551503d17fb0e6b4",
+    "private_key_hex": "6aa5ba14ce8b94643924fddc018bbf2c9ff323f057e6f421595f91a7a1c8e394"
+  }
 }
