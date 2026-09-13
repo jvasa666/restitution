@@ -1,0 +1,10 @@
+{
+  "repository": "microg/GmsCore",
+  "issue": 2994,
+  "title": "RCS Support Implementation",
+  "reward": 14999.0,
+  "files": [
+    "RcsSupportModule.java"
+  ],
+  "status": "verified"
+}
