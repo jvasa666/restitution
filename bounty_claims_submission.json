@@ -19,5 +19,6 @@
       "reward": 100841.0
     }
   ],
-  "batch_total": 1873561.0
+  "batch_total": 1873561.0,
+  "status": "monitored_and_awaiting_settlement"
 }
