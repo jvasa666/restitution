@@ -6,7 +6,7 @@ import "forge-std/Test.sol";
 contract LiquidationWaterfallTest is Test {
     function testFuzz_liquidationWaterfallClearing(uint256 debtAmount, uint256 seizedCollateral, uint256 liquidationBonus) public pure {
         uint256 debt = bound(debtAmount, 100e18, 50000e18);
-        uint256 bonus = bound(liquidationBonus, 101, 115); // 1% to 15% bonus
+        uint256 bonus = bound(liquidationBonus, 101, 115);
         uint256 seized = bound(seizedCollateral, debt, (debt * bonus) / 100);
         
         bool coversDebt = seized >= debt;
