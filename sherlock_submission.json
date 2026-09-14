@@ -6,20 +6,23 @@
             "name": "Uniswap Labs",
             "max_bounty": "15,500,000 USDC",
             "route": "Bug Bounty Escrow",
-            "source_path": "targets/uniswap"
+            "source_path": "targets/uniswap",
+            "repo_url": "https://github.com/uniswap/v4-core.git"
         },
         {
             "name": "Reserve Protocol",
             "max_bounty": "10,000,000 USDC",
             "route": "Bug Bounty Escrow",
-            "source_path": "targets/reserve"
+            "source_path": "targets/reserve",
+            "repo_url": "https://github.com/reserve-protocol/protocol.git"
         },
         {
             "name": "Euler",
             "max_bounty": "7,500,000 USDC",
             "route": "Bug Bounty Escrow",
-            "source_path": "targets/euler"
+            "source_path": "targets/euler",
+            "repo_url": "https://github.com/euler-xyz/euler-vault-kit.git"
         }
     ],
-    "webhook_status": "ready_for_ingestion"
+    "webhook_status": "repositories_cloned"
 }
