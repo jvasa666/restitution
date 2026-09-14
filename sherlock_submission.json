@@ -5,17 +5,20 @@
         {
             "name": "Uniswap Labs",
             "max_bounty": "15,500,000 USDC",
-            "route": "Bug Bounty Escrow"
+            "route": "Bug Bounty Escrow",
+            "source_path": "targets/uniswap"
         },
         {
             "name": "Reserve Protocol",
             "max_bounty": "10,000,000 USDC",
-            "route": "Bug Bounty Escrow"
+            "route": "Bug Bounty Escrow",
+            "source_path": "targets/reserve"
         },
         {
             "name": "Euler",
             "max_bounty": "7,500,000 USDC",
-            "route": "Bug Bounty Escrow"
+            "route": "Bug Bounty Escrow",
+            "source_path": "targets/euler"
         }
     ],
     "webhook_status": "configured"
