@@ -21,5 +21,5 @@
             "source_path": "targets/euler"
         }
     ],
-    "webhook_status": "configured"
+    "webhook_status": "ready_for_ingestion"
 }
