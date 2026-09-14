@@ -1,0 +1,3 @@
+[submodule "targets/fresh_target/lib/forge-std"]
+	path = targets/fresh_target/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
