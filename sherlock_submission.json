@@ -1,22 +1,22 @@
 {
-    "batch_name": "sherlock_high_yield_wave",
+    "batch_name": "cantina_high_value_expansion",
     "payout_address": "0x8ff446a9edc99ec025b3fed1551503d17fb0e6b4",
     "targets": [
         {
-            "name": "Usual Labs",
-            "max_bounty": "16,000,000 USDC",
-            "route": "Smart Contract Escrow"
+            "name": "Uniswap Labs",
+            "max_bounty": "15,500,000 USDC",
+            "route": "Bug Bounty Escrow"
         },
         {
-            "name": "Aave V4",
-            "max_bounty": "2,500,000 USD",
-            "route": "Smart Contract Escrow"
+            "name": "Reserve Protocol",
+            "max_bounty": "10,000,000 USDC",
+            "route": "Bug Bounty Escrow"
         },
         {
-            "name": "Cap",
-            "max_bounty": "1,000,000 USDC",
-            "route": "Smart Contract Escrow"
+            "name": "Euler",
+            "max_bounty": "7,500,000 USDC",
+            "route": "Bug Bounty Escrow"
         }
     ],
-    "webhook_status": "pending_configuration"
+    "webhook_status": "configured"
 }
